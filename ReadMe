@@ -1,0 +1,20 @@
+We created this project originally as an assingment - which is coding the ls command from linux
+
+To complete this project, we used a couple of online resources has reference, these are all listed here specifically
+    https://stackoverflow.com/questions/50091777/printing-information-from-stat2
+    https://stackoverflow.com/questions/8236/how-do-you-determine-the-size-of-a-file-in-c
+    https://stackoverflow.com/questions/10323060/printing-file-permissions-like-ls-l-using-stat2-in-c
+    https://pubs.opengroup.org/onlinepubs/7908799/xsh/dirent.h.html
+    https://pubs.opengroup.org/onlinepubs/009604499/basedefs/sys/stat.h.html
+
+
+We tested all variations we thought of when it came to the flags some of which are listed below:
+    UnixLs 
+    UnixLs -i
+    UnixLs -il
+    UnixLs -li
+    UnixLs -ilR
+    etc. 
+
+An example of some of these outputs are included in the example.txt file included.
+The code was tested with a number of variations of the flags
