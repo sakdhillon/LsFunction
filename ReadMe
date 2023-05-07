@@ -16,5 +16,4 @@ We tested all variations we thought of when it came to the flags some of which a
     UnixLs -ilR
     etc. 
 
-An example of some of these outputs are included in the example.txt file included.
 The code was tested with a number of variations of the flags
